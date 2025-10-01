@@ -1,4 +1,4 @@
-# CardputerLLM case - 适用于 Carputer && Module LLM 的外壳
+# CardputerLLM - 适用于 Carputer && Module LLM 的外壳
 
 该打印套件适用于 GOROman 的 LLMCardputer 项目，详见 https://github.com/GOROman/LLMCardputer
 
