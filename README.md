@@ -1,4 +1,4 @@
-# CardputerLLM - Enclosure for Carputer && Module LLM
+# CardputerLLM - Enclosure for Cardputer && Module LLM
 
 This print kit is designed for GOROman's LLMCardputer project. For details, visit: [GOROman/LLMCardputer](https://github.com/GOROman/LLMCardputer)
 
